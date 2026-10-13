@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+duckduckgo-search
+requests
+tavily-python
+python-dotenv
+langchain-groq
+langchainhub
+streamlit
+beautifulsoup4
+readability-lxml
+trafilatura
+lxml
